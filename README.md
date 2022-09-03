@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laurie-smith
+- 👋 Hi, I’m @laurie-smith, a recent graduate with a MA in Economics.
 - 👀 I’m interested in data analytics and machine learning.
 - 🌱 I’m currently learning everything I can!!!!
 - 💞️ I’m looking to collaborate with recent grads that are looking to expand their knowledge like me!
